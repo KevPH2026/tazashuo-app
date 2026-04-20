@@ -79,7 +79,7 @@ export default function HomePage() {
               </Link>
               <Link href="/distill" className="btn btn-ghost text-base px-8 py-3">
                 <Brain size={18} />
-                蒸馏自己的AI
+                创建专属分身
               </Link>
             </div>
 
@@ -88,10 +88,6 @@ export default function HomePage() {
               <span className="flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-neon-cyan" />
                 6位思维分身
-              </span>
-              <span className="flex items-center gap-1.5">
-                <span className="w-1.5 h-1.5 rounded-full bg-neon-pink" />
-                MiniMax AI驱动
               </span>
               <span className="flex items-center gap-1.5">
                 <span className="w-1.5 h-1.5 rounded-full bg-neon-purple" />
@@ -241,9 +237,9 @@ export default function HomePage() {
                 <div className="w-12 h-12 rounded-xl bg-gradient-to-br from-neon-purple/20 to-neon-orange/20 flex items-center justify-center mx-auto mb-4">
                   <Zap size={24} className="text-neon-purple" />
                 </div>
-                <h3 className="text-lg font-bold text-white mb-2">自定义蒸馏</h3>
+                <h3 className="text-lg font-bold text-white mb-2">打造专属分身</h3>
                 <p className="text-sm text-text-dim leading-relaxed">
-                  上传你崇拜的人物的文章、讲话、书籍，AI自动提炼出他们的思维框架，打造专属分身。
+                  上传你崇拜的人物的文章、讲话、书籍，AI自动分析并构建他们的思维框架，打造专属分身。
                 </p>
               </div>
             </div>
