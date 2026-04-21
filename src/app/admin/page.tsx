@@ -74,7 +74,7 @@ export default function AdminDashboardPage() {
   const shortcuts = [
     { label: '人物管理', desc: '编辑人物技能数据', href: '/admin/personas', icon: Users, color: 'from-neon-cyan to-neon-purple' },
     { label: '模型配置', desc: '调整AI模型与定价', href: '/admin/settings', icon: Brain, color: 'from-neon-pink to-neon-purple' },
-    { label: '蒸馏工厂', desc: '创建新人物分身', href: '/distill', icon: FlaskConical, color: 'from-neon-orange to-neon-pink' },
+    { label: 'DNA提取工厂', desc: '创建新人物分身', href: '/distill', icon: FlaskConical, color: 'from-neon-orange to-neon-pink' },
   ]
 
   return (

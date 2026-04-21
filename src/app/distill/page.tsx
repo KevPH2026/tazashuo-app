@@ -79,7 +79,7 @@ export default function DistillPage() {
               <FlaskConical size={13} />
               实验性功能
             </div>
-            <h1 className="text-3xl sm:text-4xl font-black text-white mb-3">蒸馏工厂</h1>
+            <h1 className="text-3xl sm:text-4xl font-black text-white mb-3">DNA提取工厂</h1>
             <p className="text-text-dim max-w-lg mx-auto">
               上传你崇拜人物的材料，AI 自动提炼出他们的心智模型、决策框架和表达 DNA，打造专属思维分身。
             </p>

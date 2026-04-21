@@ -34,7 +34,7 @@ export default function Footer() {
             <h4 className="text-sm font-bold text-white mb-3">产品</h4>
             <ul className="space-y-2">
               <li><Link href="/personas" className="text-sm text-text-dim hover:text-neon-cyan transition-colors">人物库</Link></li>
-              <li><Link href="/distill" className="text-sm text-text-dim hover:text-neon-cyan transition-colors">蒸馏工厂</Link></li>
+              <li><Link href="/distill" className="text-sm text-text-dim hover:text-neon-cyan transition-colors">DNA提取工厂</Link></li>
               <li><Link href="/chat" className="text-sm text-text-dim hover:text-neon-cyan transition-colors">开始对话</Link></li>
             </ul>
           </div>

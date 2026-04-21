@@ -9,7 +9,7 @@ import LangSwitch from '@/components/i18n/LangSwitch'
 
 const navLinks = [
   { href: '/personas', label: '人物库', icon: Users },
-  { href: '/distill', label: '蒸馏工厂', icon: FlaskConical },
+  { href: '/distill', label: 'DNA提取工厂', icon: FlaskConical },
   { href: '/history', label: '历史', icon: History },
   { href: '/pricing', label: '定价', icon: CreditCard },
 ]
